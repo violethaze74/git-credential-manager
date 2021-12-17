@@ -1,3 +1,4 @@
+# A test
 # Git Credential Manager
 
 [![Build Status](https://github.com/GitCredentialManager/git-credential-manager/actions/workflows/continuous-integration.yml/badge.svg)](https://github.com/GitCredentialManager/git-credential-manager/actions/workflows/continuous-integration.yml)
